@@ -1,0 +1,2 @@
+"# A1_PizzaOrder"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/siracha/A1_PizzaOrder.gitgit push -u origin main
+"# A1_PizzaOrder"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/siracha/A1_PizzaOrder.gitgit push -u origin main 
